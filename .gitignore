@@ -1,0 +1,5 @@
+Results/
+__pycache__/
+logs/
+test.jpg
+env.py
